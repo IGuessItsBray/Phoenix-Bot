@@ -1,0 +1,22 @@
+{
+   
+   "BOT_TOKEN": "",
+   "CLIENT_ID": "",
+   "GUILD": "",
+   "PASSWORD": "",
+   "PASSWORD_CHANNEL": "",
+   "PASSWORD_ROLE": "",
+   "PASSWORD_ROLE2": "",
+   "PASSWORD_ROLE_REMOVE": "",
+   "PASSWORD_LOGS": "",
+   "BUMP_PING_ROLE": "",
+   "MOD_PING_ROLE": "",
+   "SAFEWORD": "",
+   "CONFESSION_SEND": "",
+   "CONFESSION_RECEIVE": "",
+   "CONFESSION_RECEIVE_NSFW": "",
+   "ROLE_CHANNEL_ID": "",
+   "token": "",
+   "prefix": "",
+   "loggerChannelID": ""
+}
